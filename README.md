@@ -1,47 +1,47 @@
 
-Har **Assignment** folder mein multiple Python files honge + ek chhota README (optional) jisme approach likh sakta hoon.
+Each assignment folder will contain multiple Python solution files.
 
 ---
 
-### Topics Jo Cover Karunga
+### Topics I Will Cover
 
-- Python Basics (Variables, Loops, Functions)
-- Data Structures (List, Dictionary, Tuple, Set)
-- String & File Handling
-- Object Oriented Programming (OOP)
-- Algorithms & Problem Solving
-- Advanced Python (Decorators, Generators, etc.)
-- Real-world Assignment Style Questions
+- Python Fundamentals (Variables, Loops, Functions, Conditionals)
+- Data Structures (Lists, Dictionaries, Tuples, Sets)
+- String Manipulation and File Handling
+- Object-Oriented Programming (OOP)
+- Algorithms and Problem-Solving Techniques
+- Advanced Python Concepts (Decorators, Generators, etc.)
+- Real-world assignment-style questions
 
 ---
 
-### My Daily Rules
+### My Daily Commitment
 
-- Minimum 1 Assignment per day
-- Har question ka clean & commented code
-- Time aur Space complexity samajhna (jahan applicable ho)
-- Consistency rakhna — no excuses
+- Solve at least 1 Assignment every day
+- Write clean and well-commented code
+- Understand time and space complexity where applicable
+- Maintain consistency and improve daily
 
 ---
 
 ### Tech Stack
 
 - **Language:** Python 3
-- **Focus:** Problem Solving, Clean Code & Daily Practice
+- **Focus:** Problem Solving, Clean Code & Consistent Practice
 
 ---
 
 ### Let's Connect
 
 - GitHub: [@ByteCodeVikash](https://github.com/ByteCodeVikash)
-- LinkedIn: [Add your LinkedIn link yahan]
+- LinkedIn: [Add your LinkedIn profile link here]
 
 ---
 
-> **"Consistency is more important than perfection."**
+> **"Consistency beats talent when talent doesn't show up every day."**
 
-**Made with ❤️ and hard work by Vikash**
+**Built with ❤️ and discipline by Vikash**
 
 ---
 
-**Repo Link:** https://github.com/ByteCodeVikash/PythonDailyGrind
+**Repository Link:** https://github.com/ByteCodeVikash/PythonDailyGrind
