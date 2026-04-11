@@ -1,0 +1,5 @@
+#10. Write a python script to sort a list.
+
+thislist=[2,4,1,4,5,1,2]
+
+print(sorted(thislist))

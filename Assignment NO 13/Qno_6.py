@@ -1,0 +1,5 @@
+#Write a Python script to calculate the sum of elements in a given list of numbers.
+
+l1=[1,2,4,5,6]
+
+print(sum(l1))
