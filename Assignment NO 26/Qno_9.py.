@@ -1,0 +1,9 @@
+#9. Write a python script to raise a ValueError.
+
+
+num = int(input("Enter a number: "))
+
+if num < 0:
+    raise ValueError("Negative number not allowed")
+
+print("You entered:", num)
