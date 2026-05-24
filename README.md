@@ -34,7 +34,7 @@ Each assignment folder will contain multiple Python solution files.
 ### Let's Connect
 
 - GitHub: [@ByteCodeVikash](https://github.com/ByteCodeVikash)
-- LinkedIn: [Add your LinkedIn profile link here]
+- Portfolio: https://www.vikashdubey.com/
 
 ---
 
